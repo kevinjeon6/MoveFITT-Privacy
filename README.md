@@ -13,7 +13,11 @@ MoveFITT does not collect ay personal identifiable data. MoveFITT reads the data
 
 ## Future Changes and Updates
 
-If/When MoveFitt makes any changes Privacy or how data is collected, these changes will be posted on here in a timely manner. We reserve the right to modify these terms & conditions and/or privacy policy at any time. Please review when regularly, particularly when there are updates to the app.
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2023-04-20
 
 
 
